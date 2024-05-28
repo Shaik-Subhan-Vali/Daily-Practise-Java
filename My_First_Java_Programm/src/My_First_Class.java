@@ -5,7 +5,6 @@ public class My_First_Class {
 	{
 		System.out.println("My first programme in java");
 		
-		System.out.println("That's ok");
 			
 	}
 
